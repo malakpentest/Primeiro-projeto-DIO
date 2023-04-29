@@ -1,5 +1,5 @@
 # Primeiro-projeto-DIO
-### FERRAMENTAS **BOLD TEXT** Criando meu Primeiro projeto na DIO
+###Criando meu Primeiro projeto na DIO  **BOLD TEXT** Criando meu Primeiro projeto na DIO
 
 ### TUTOR: Venilton FalvoJr **BLOD TEXT**
 #### Formação: Graduação, Mestrado e Doutorado*
