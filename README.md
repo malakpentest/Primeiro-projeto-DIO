@@ -2,7 +2,7 @@
 ### **Criando meu Primeiro projeto na DIO**  
 
 
-### TUTOR: Venilton FalvoJr **BLOD TEXT**
+### **TUTOR: Venilton FalvoJr **
 #### Formação: Graduação, Mestrado e Doutorado*
 
 
