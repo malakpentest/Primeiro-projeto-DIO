@@ -6,7 +6,7 @@
 #### Formação: Graduação, Mestrado e Doutorado*
 
 
-#### FERRAMENTAS **BOLD TEXT**
+#### FERRAMENTAS 
 
-GITHUB
+<li> GITHUB </li>
 
